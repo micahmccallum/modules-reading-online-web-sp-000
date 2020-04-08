@@ -10,7 +10,7 @@ module FancyDance
     end
 
     def pirouette
-      "I'm doing a pirouette"
+      "I'm doing a pirouette."
     end
 
     def take_a_bow
@@ -22,6 +22,10 @@ module FancyDance
 
     def metadata
       "This class produces objects that love to dance."
+    end
+
+    def pirouette
+      "I'm doing a pirouette."
     end
   end
 end
